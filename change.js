@@ -1,1 +1,1 @@
-console.log('bug fix.js')
+console.log('conflict 1.js')
